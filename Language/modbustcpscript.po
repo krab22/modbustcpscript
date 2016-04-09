@@ -1,0 +1,13 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tform1.caption
+msgctxt "tform1.caption"
+msgid "Управление устройсвами Modbus TCP"
+msgstr ""
+
+#: tfrmmain.caption
+msgctxt "TFRMMAIN.CAPTION"
+msgid "Управление устройсвами Modbus TCP"
+msgstr ""
+

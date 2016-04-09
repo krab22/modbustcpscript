@@ -1,8 +1,8 @@
-object Form1: TForm1
+object frmMain: TfrmMain
   Left = 418
-  Height = 240
+  Height = 344
   Top = 160
-  Width = 320
-  Caption = 'Form1'
+  Width = 620
+  Caption = 'Управление устройсвами Modbus TCP'
   LCLVersion = '5.7'
 end

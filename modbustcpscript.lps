@@ -2,12 +2,11 @@
 <CONFIG>
   <ProjectSession>
     <Version Value="9"/>
-    <BuildModes Active="Default"/>
+    <BuildModes Active="Linux_x64"/>
     <Units Count="2">
       <Unit0>
         <Filename Value="modbustcpscript.lpr"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
         <CursorPos X="35" Y="6"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
@@ -15,8 +14,10 @@
       <Unit1>
         <Filename Value="Source/main.pas"/>
         <IsPartOfProject Value="True"/>
-        <ComponentName Value="Form1"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
